@@ -34,10 +34,10 @@ function spread(func, args) {
 ## Work Experience
 During my studies I completed the following projects:
 
-1. [Brooklyn Public Library](https://ulikemyway1.github.io/projects_RSS2023/library/) (HTML, SCSS, JavaSript, Gulp) ([GitHub](https://github.com/ulikemyway1/projects_RSS2023/tree/library/))
-2. [Audio Player](https://ulikemyway1.github.io/projects_RSS2023/audio-player/) (HTML, CSS, JavaSript) ([GitHub](https://github.com/ulikemyway1/projects_RSS2023/tree/audio-player/))
-3. [Image Gallery](https://ulikemyway1.github.io/projects_RSS2023/image-galery/) (HTML, CSS, JavaSript) ([GitHub](https://github.com/ulikemyway1/projects_RSS2023/tree/image-galery/))
-4. [Words Game](https://ulikemyway1.github.io/projects_RSS2023/random-game/) (HTML, CSS, JavaSript) ([GitHub](https://github.com/ulikemyway1/projects_RSS2023/tree/random-game/))
+1. [Brooklyn Public Library](https://ulikemyway1.github.io/projects_RSS2023/library/) (HTML, SCSS, JavaScript, Gulp) ([GitHub](https://github.com/ulikemyway1/projects_RSS2023/tree/library/))
+2. [Audio Player](https://ulikemyway1.github.io/projects_RSS2023/audio-player/) (HTML, CSS, JavaScript) ([GitHub](https://github.com/ulikemyway1/projects_RSS2023/tree/audio-player/))
+3. [Image Gallery](https://ulikemyway1.github.io/projects_RSS2023/image-galery/) (HTML, CSS, JavaScript) ([GitHub](https://github.com/ulikemyway1/projects_RSS2023/tree/image-galery/))
+4. [Words Game](https://ulikemyway1.github.io/projects_RSS2023/random-game/) (HTML, CSS, JavaScript) ([GitHub](https://github.com/ulikemyway1/projects_RSS2023/tree/random-game/))
 5. [Meme Slider](https://ulikemyway1.github.io/cssMemeSlider/cssMemeSlider/index.html) (HTML, CSS) ([GitHub](https://github.com/ulikemyway1/cssMemeSlider))
 ## Education
 ## English Language
