@@ -40,4 +40,18 @@ During my studies I completed the following projects:
 4. [Words Game](https://ulikemyway1.github.io/projects_RSS2023/random-game/) (HTML, CSS, JavaScript) ([GitHub](https://github.com/ulikemyway1/projects_RSS2023/tree/random-game/))
 5. [Meme Slider](https://ulikemyway1.github.io/cssMemeSlider/cssMemeSlider/index.html) (HTML, CSS) ([GitHub](https://github.com/ulikemyway1/cssMemeSlider))
 ## Education
+### Rolling Scopes School
+
+[RS School. JS/Frontend](https://github.com/rolling-scopes-school/tasks/tree/master/stage0)
+****
+### Udemy
+
+[Web Developer](https://www.udemy.com/certificate/UC-14ac325d-148d-4d59-86a7-eb86243c9ab0/)
+****
+### Belarusian State Technological University
+
+* Bachelor's degree: Chemical technology of organic materials
+* Master's Degree: Technology and Processing of Polymers and Composites
+* PhD: Materials Science
+
 ## English Language
