@@ -55,3 +55,4 @@ During my studies I completed the following projects:
 * PhD: Materials Science
 
 ## English Language
+B1 level (Intermediate)
